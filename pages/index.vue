@@ -6,7 +6,3 @@
     <NuxtLink to="/quiz" class="btn-primary btn mt-6">Start Quiz</NuxtLink>
   </div>
 </template>
-
-<script lang="ts" setup></script>
-
-<style scoped></style>
