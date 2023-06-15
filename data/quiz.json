@@ -1,0 +1,352 @@
+[
+  {
+    "clues": {
+      "character": "Gasai Yuno",
+      "quote": "I'm crazy!? What's crazy is this world that refuses to let me be with you!!!",
+      "synopsis": "Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone, while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god's servant. Revealing himself to be an actual entity, Deus grants Yukiteru a \"Random Diary,\" which shows highly descriptive entries based on the future and forces him into a bloody battle royale with 11 other holders of similarly powerful future diaries.\n\nWith the last person standing designated as the new god of time and space, Yukiteru must find and kill the other 11 in order to survive. He reluctantly teams up with his obsessive stalker Yuno Gasai (who also possesses such a diary), and she takes it upon herself to ensure his safety. But there's more to the girl than meets the eye, as she might have other plans for her unrequited love...4\n\n[Written by MAL Rewrite]",
+      "startDate": "2011-10-09",
+      "genres": "Action, Mystery, Supernatural, Psychological, Thriller"
+    },
+    "choices": [
+      {
+        "id": "796-6266",
+        "image": "https://media.kitsu.io/anime/poster_images/6266/medium.jpg",
+        "text": "Mirai Nikki",
+        "isCorrect": true
+      },
+      {
+        "id": "1080-10621",
+        "image": "https://media.kitsu.io/anime/poster_images/10621/medium.jpg",
+        "text": "Akagami no Shirayukihime",
+        "isCorrect": false
+      },
+      {
+        "id": "5203-5853",
+        "image": "https://media.kitsu.io/anime/poster_images/5853/medium.jpg",
+        "text": "Mahou Shoujo Madoka Magica",
+        "isCorrect": false
+      },
+      {
+        "id": "4124-2039",
+        "image": "https://media.kitsu.io/anime/poster_images/2039/medium.jpg",
+        "text": "Baccano!",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Russia",
+      "quote": "I want to see confused and troubled Lithuania to come crying to me.",
+      "synopsis": "What if nations were people? What traits would they have? What would this mean for historical events?Hetalia Axis Powers takes these questions and runs with them, personifying countries into characters. The show takes a comedic and light approach to politics and historical events while educating the viewer.\nTaking place primarily during the events of World War I and World War II, the story focuses on the Axis Powers and occasionally throws the spotlight onto the tumultuous relationship between the Allied Forces. The Axis Powers feature the titular character North Italy, who is clumsy, carefree and loves pasta; Germany, who is very serious but easily flustered; and Japan, who is stoic but has bizarre interests.\nBased on Hidekaz Himaruya's widely popular webcomic turned print manga, Hetalia Axis Powers is a historical comedy that pokes lightly at culture, examines the relationships between nations and breathes fun into history.\n[Written By MAL Rewrite]",
+      "startDate": "2009-01-24",
+      "genres": "Comedy, Historical, Parody"
+    },
+    "choices": [
+      {
+        "id": "5497-5646",
+        "image": "https://media.kitsu.io/anime/poster_images/5646/medium.jpg",
+        "text": "Steins;Gate",
+        "isCorrect": false
+      },
+      {
+        "id": "7296-3910",
+        "image": "https://media.kitsu.io/anime/poster_images/3910/medium.jpg",
+        "text": "Axis Powers: Hetalia",
+        "isCorrect": true
+      },
+      {
+        "id": "594-8026",
+        "image": "https://media.kitsu.io/anime/poster_images/8026/medium.jpg",
+        "text": "Barakamon",
+        "isCorrect": false
+      },
+      {
+        "id": "3412-11",
+        "image": "https://media.kitsu.io/anime/11/poster_image/medium-410cee5d114a5f70d69e795755e8348a.jpeg",
+        "text": "Naruto",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Light Yagami",
+      "quote": "Under normal circumstances, humans should have continued to evolve as the greatest creatures upon this earth, but we were actually regressing. A rotten world. Politics, law, education... Was there anybody around who could correct this world? But someone had to do it.",
+      "synopsis": "A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm.\n\nHigh school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be.\n\nWith this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L.\n\n(Source: MAL Rewrite)",
+      "startDate": "2006-10-04",
+      "genres": "Mystery, Supernatural, Police, Psychological, Thriller"
+    },
+    "choices": [
+      {
+        "id": "3768-1376",
+        "image": "https://media.kitsu.io/anime/poster_images/1376/medium.jpg",
+        "text": "Death Note",
+        "isCorrect": true
+      },
+      {
+        "id": "5314-3936",
+        "image": "https://media.kitsu.io/anime/poster_images/3936/medium.jpg",
+        "text": "Fullmetal Alchemist",
+        "isCorrect": false
+      },
+      {
+        "id": "582-13881",
+        "image": "https://media.kitsu.io/anime/poster_images/13881/medium.jpg",
+        "text": "Boku no Hero Academia",
+        "isCorrect": false
+      },
+      {
+        "id": "715-10036",
+        "image": "https://media.kitsu.io/anime/poster_images/10036/medium.jpg",
+        "text": "Koutetsujou no Kabaneri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Inuyasha",
+      "quote": "Don't be stupid. You're just a human. So back off, shut up, and butt out. *to Kagome*",
+      "synopsis": "Based on the Shogakukan award-winning manga of the same name, InuYasha follows Kagome Higurashi, a fifteen-year-old girl whose normal life ends when a demon drags her into a cursed well on the grounds of her family's Shinto shrine. Instead of hitting the bottom of the well, Kagome ends up 500 years in the past during Japan's violent Sengoku period with the demon's true target, a wish-granting jewel called the Shikon Jewel, reborn inside of her.\n\nAfter a battle with a revived demon accidentally causes the sacred jewel to shatter, Kagome enlists the help of a young hybrid dog-demon/human named Inuyasha to help her collect the shards and prevent them from falling into the wrong hands. Joining Kagome and Inuyasha on their quest are the orphan fox-demon Shippo, the intelligent monk Miroku, and the lethal demon slayer Sango. Together, they must set aside their differences and work together to find the power granting shards spread across feudal Japan and deal with the threats that arise.\n\n[Written by MAL Rewrite]",
+      "startDate": "2000-10-16",
+      "genres": "Action, Adventure, Comedy, Magic, Supernatural, Fantasy, Romance, Demons"
+    },
+    "choices": [
+      {
+        "id": "6355-224",
+        "image": "https://media.kitsu.io/anime/poster_images/224/medium.jpg",
+        "text": "Inuyasha",
+        "isCorrect": true
+      },
+      {
+        "id": "6308-489",
+        "image": "https://media.kitsu.io/anime/489/poster_image/medium-6b121f051f9e003b5463f261dbd95974.jpeg",
+        "text": "Sailor Moon",
+        "isCorrect": false
+      },
+      {
+        "id": "3728-12",
+        "image": "https://media.kitsu.io/anime/poster_images/12/medium.jpg",
+        "text": "One Piece",
+        "isCorrect": false
+      },
+      {
+        "id": "1480-3839",
+        "image": "https://media.kitsu.io/anime/poster_images/3839/medium.jpg",
+        "text": "Umineko no Naku Koro ni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Kozakura Marry",
+      "quote": "The others taught me something. That one needn't fear the future. That one needn't hate the world. From now on, the world will not simply be my fantasy. It will be our one and only, real future.",
+      "synopsis": "Shintarou Kisaragi—a NEET who shut himself inside his room for 2 years—has been living his life normally until he met a cyber girl named Ene, who appeared in his computer screen when someone anonymously sent him a mysterious e-mail one year ago. One day, Ene had been messing with Shintaro's PC, which causes him have to go to the outside world for first time in two years.\n(Source: Official site)",
+      "startDate": "2016-11-04",
+      "genres": "Comedy, Sci-Fi, Magic, Supernatural, Romance, Slice of Life"
+    },
+    "choices": [
+      {
+        "id": "2191-7410",
+        "image": "https://media.kitsu.io/anime/poster_images/7410/medium.jpg",
+        "text": "Love Lab",
+        "isCorrect": false
+      },
+      {
+        "id": "3543-1122",
+        "image": "https://media.kitsu.io/anime/poster_images/1122/medium.jpg",
+        "text": "Project K: Days Of Blue",
+        "isCorrect": false
+      },
+      {
+        "id": "2292-12093",
+        "image": "https://media.kitsu.io/anime/poster_images/12093/medium.jpg",
+        "text": "Kagerou Days",
+        "isCorrect": true
+      },
+      {
+        "id": "2907-1962",
+        "image": "https://media.kitsu.io/anime/poster_images/1962/medium.jpg",
+        "text": "CLANNAD",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Jean Kirstein",
+      "quote": "I just really don't wanna meet a disappointing end, with someone burning my bones without even knowing who they belonged to.",
+      "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n(Source: MAL Rewrite)",
+      "startDate": "2013-04-07",
+      "genres": "Action, Drama, Mystery, Fantasy, Super Power, Military"
+    },
+    "choices": [
+      {
+        "id": "2543-3936",
+        "image": "https://media.kitsu.io/anime/poster_images/3936/medium.jpg",
+        "text": "Fullmetal Alchemist: Brotherhood",
+        "isCorrect": false
+      },
+      {
+        "id": "6124-359",
+        "image": "https://media.kitsu.io/anime/poster_images/359/medium.jpg",
+        "text": "Yu Yu Hakusho",
+        "isCorrect": false
+      },
+      {
+        "id": "888-7442",
+        "image": "https://media.kitsu.io/anime/poster_images/7442/medium.jpg",
+        "text": "Shingeki no Kyojin",
+        "isCorrect": true
+      },
+      {
+        "id": "4374-3453",
+        "image": "https://media.kitsu.io/anime/poster_images/3453/medium.jpg",
+        "text": "Natsume Yuujinchou",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Claire Bernardus",
+      "quote": "And yet, at the end of the day, we are just like tree leaves dancing in a whirlpool. No matter how we dance, we are only swallowed by the whirlpool and disappear...",
+      "synopsis": "Considered as the third installment in the highly popular When They Cry series by 07th Expansion, Umineko no Naku Koro ni takes place on the island of Rokkenjima, owned by the immensely wealthy Ushiromiya family. As customary per year, the entire family is gathering on the island for a conference that discusses the current financial situations of each respective person. Because of the family head's poor health, this year involves the topic of the head of the family's inheritance and how it will be distributed.\nHowever, the family is unaware that the distribution of his wealth is the least of Ushiromiya Kinzou's (family head) concerns for this year's family conference. After being told that his end was approaching by his longtime friend and physician, Kinzou is desperate to meet his life's true love one last time: the Golden Witch, Beatrice. Having immersed himself in black magic for many of the later years in his life, Kinzou instigates a ceremony to revive his beloved upon his family's arrival on Rokkenjima. Soon after, a violent typhoon traps the family on the island and a string of mysterious murders commence, forcing the eighteen people on the island to fight for their lives in a deadly struggle between fantasy and reality.\n[Written by MAL Rewrite]",
+      "startDate": "2009-07-02",
+      "genres": "Mystery, Supernatural, Horror, Psychological"
+    },
+    "choices": [
+      {
+        "id": "3390-9178",
+        "image": "https://media.kitsu.io/anime/poster_images/9178/medium.jpg",
+        "text": "Nisekoi",
+        "isCorrect": false
+      },
+      {
+        "id": "1019-4676",
+        "image": "https://media.kitsu.io/anime/4676/poster_image/medium-baa74996a373dfcc24dd19fe559c1761.jpeg",
+        "text": "Fairy Tail",
+        "isCorrect": false
+      },
+      {
+        "id": "903-3839",
+        "image": "https://media.kitsu.io/anime/poster_images/3839/medium.jpg",
+        "text": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the...",
+        "isCorrect": true
+      },
+      {
+        "id": "4745-1525",
+        "image": "https://media.kitsu.io/anime/poster_images/1525/medium.jpg",
+        "text": "Nodame Cantabile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Takumi Usui",
+      "quote": "I just want to keep looking at her.",
+      "synopsis": "Being the first female student council president isn't easy, especially when your school just transitioned from an all boys high school to a co-ed one. Aptly nicknamed \"Demon President\" by the boys for her strict disciplinary style, Misaki Ayuzawa is not afraid to use her mastery of Aikido techniques to cast judgment onto the hordes of misbehaving boys and defend the girls at Seika High School.\nYet even the perfect Ayuzawa has an embarrassing secret—she works part-time as a maid at a maid café to help her struggling family pay the bills. She has managed to keep her job hidden from her fellow students and maintained her flawless image as a stellar student until one day, Takumi Usui, the most popular boy in school, walks into the maid café. He could destroy her reputation with her secret... or he could twist the student council president around his little finger and use her secret as an opportunity to get closer to her.\n[Written by MAL Rewrite]",
+      "startDate": "2010-04-02",
+      "genres": "Comedy, Romance, School"
+    },
+    "choices": [
+      {
+        "id": "5190-5853",
+        "image": "https://media.kitsu.io/anime/poster_images/5853/medium.jpg",
+        "text": "Mahou Shoujo Madoka Magica",
+        "isCorrect": false
+      },
+      {
+        "id": "5581-4852",
+        "image": "https://media.kitsu.io/anime/poster_images/4852/medium.jpg",
+        "text": "Kaichou Wa Maid-Sama!",
+        "isCorrect": true
+      },
+      {
+        "id": "3956-11",
+        "image": "https://media.kitsu.io/anime/11/poster_image/medium-410cee5d114a5f70d69e795755e8348a.jpeg",
+        "text": "Naruto",
+        "isCorrect": false
+      },
+      {
+        "id": "3540-8057",
+        "image": "https://media.kitsu.io/anime/poster_images/8057/medium.jpg",
+        "text": "Hamatora: The Animation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Kousei Arima",
+      "quote": "Maybe... just maybe, the light can reach even the bottom of a dark ocean.",
+      "synopsis": "Music accompanies the path of the human metronome, the prodigious pianist Kousei Arima. But after the passing of his mother, Saki Arima, Kousei falls into a downward spiral, rendering him unable to hear the sound of his own piano.\nTwo years later, Kousei still avoids the piano, leaving behind his admirers and rivals, and lives a colorless life alongside his friends Tsubaki Sawabe and Ryouta Watari. However, everything changes when he meets a beautiful violinist, Kaori Miyazono, who stirs up his world and sets him on a journey to face music again.\nBased on the manga series of the same name, Shigatsu wa Kimi no Uso approaches the story of Kousei's recovery as he discovers that music is more than playing each note perfectly, and a single melody can bring in the fresh spring air of April.\n[Written by MAL Rewrite]",
+      "startDate": "2014-10-10",
+      "genres": "Drama, Romance, School, Music, Friendship"
+    },
+    "choices": [
+      {
+        "id": "1534-8403",
+        "image": "https://media.kitsu.io/anime/poster_images/8403/medium.jpg",
+        "text": "Shigatsu Wa Kimi No Uso",
+        "isCorrect": true
+      },
+      {
+        "id": "5691-245",
+        "image": "https://media.kitsu.io/anime/poster_images/245/medium.jpg",
+        "text": "Hellsing",
+        "isCorrect": false
+      },
+      {
+        "id": "6338-224",
+        "image": "https://media.kitsu.io/anime/poster_images/224/medium.jpg",
+        "text": "Inuyasha",
+        "isCorrect": false
+      },
+      {
+        "id": "897-10877",
+        "image": "https://media.kitsu.io/anime/poster_images/10877/medium.jpg",
+        "text": "Assassination Classroom 2nd Season",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "clues": {
+      "character": "Griffith",
+      "quote": "Stake your lives on this fight! Our survival demands that we stake our lives on this fight! And to survive, is to be victorious!",
+      "synopsis": "The sequel of Beserk (2016).",
+      "startDate": "2017-04-07",
+      "genres": "Action, Adventure, Drama, Magic, Supernatural, Fantasy, Romance, Horror, Military, Demons"
+    },
+    "choices": [
+      {
+        "id": "5798-3128",
+        "image": "https://media.kitsu.io/anime/poster_images/3128/medium.jpg",
+        "text": "Soul Eater",
+        "isCorrect": false
+      },
+      {
+        "id": "5717-12569",
+        "image": "https://media.kitsu.io/anime/poster_images/12569/medium.jpg",
+        "text": "Berserk",
+        "isCorrect": true
+      },
+      {
+        "id": "3867-5766",
+        "image": "https://media.kitsu.io/anime/poster_images/5766/medium.jpg",
+        "text": "Beelzebub",
+        "isCorrect": false
+      },
+      {
+        "id": "1548-5187",
+        "image": "https://media.kitsu.io/anime/poster_images/5187/medium.jpg",
+        "text": "Highschool Of The Dead",
+        "isCorrect": false
+      }
+    ]
+  }
+]
