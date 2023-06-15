@@ -6,3 +6,9 @@
     <NuxtPage />
   </div>
 </template>
+
+<script setup>
+useSeoMeta({
+  title: "Quiz App",
+});
+</script>
