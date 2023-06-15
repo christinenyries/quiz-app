@@ -77,7 +77,6 @@ const handleCheckScore = () => {
   navigateTo("/results");
 };
 onMounted(async () => {
-  questionsStore.$reset();
   await questionsStore.load();
 });
 </script>
