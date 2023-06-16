@@ -184,7 +184,7 @@ export const useQuestionsStore = defineStore("questions", () => {
     const quotes = Array<Quote>().concat(...response);
     return quotes;
   };
-  const fetch10RandomAnimeQuotes = () => $fetch<Quote[]>("api/quotes");
+  const fetch10RandomAnimeQuotes = () => $fetch<Quote[]>("/api/quotes");
 
   return {
     load,
