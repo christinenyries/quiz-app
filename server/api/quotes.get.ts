@@ -1,8 +1,9 @@
 const animechanBaseUrl = "http://animechan.melosh.space";
 
 export default defineEventHandler(async () => {
+  let quotes = [];
   try {
-    return await $fetch(`${animechanBaseUrl}/quotes`);
+    quotes = await $fetch(`${animechanBaseUrl}/quotes`);
   } catch (err) {
     console.error(err);
     throw createError({
@@ -10,4 +11,5 @@ export default defineEventHandler(async () => {
       statusMessage: "Failed to fetch quotes",
     });
   }
+  return quotes;
 });
