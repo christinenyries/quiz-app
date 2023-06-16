@@ -168,8 +168,6 @@ export const useQuestionsStore = defineStore("questions", () => {
 
   // Animechan API
 
-  const animechanBaseUrl = "http://animechan.melosh.space";
-
   const fetchRandomAnimeQuotes = async () => {
     if (count % 10 !== 0) {
       throw createError({
@@ -186,8 +184,7 @@ export const useQuestionsStore = defineStore("questions", () => {
     const quotes = Array<Quote>().concat(...response);
     return quotes;
   };
-  const fetch10RandomAnimeQuotes = () =>
-    $fetch<Quote[]>(`${animechanBaseUrl}/quotes`);
+  const fetch10RandomAnimeQuotes = () => $fetch<Quote[]>("api/quotes");
 
   return {
     load,
