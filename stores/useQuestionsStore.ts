@@ -1,5 +1,5 @@
-import { Quote } from "@/api/animechan";
-import { Collection, Genre, Anime } from "@/api/kitsu";
+import { Quote } from "~/types/animechan";
+import { Collection, Genre, Anime } from "@/types/kitsu";
 import { Choice, Question } from "@/types";
 
 type QuestionStoreStatus =
