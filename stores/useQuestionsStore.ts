@@ -93,7 +93,7 @@ export const useQuestionsStore = defineStore("questions", () => {
         // e.g. 1st question will use anime at index 10, 20, and 30 as choices
         //      2nd question will use anime at index 11, 21, and 31 as choices
         //      10th question will use anime at index 19, 29, and 39 as choices
-        const j = i + 10 * choices.length;
+        const j = i + count * choices.length;
         const choice: Choice = {
           id: `${quotes[j].key}-${animes[j].id}`,
           image: animes[j].attributes.posterImage.medium,
